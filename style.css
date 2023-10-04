@@ -1,0 +1,24 @@
+body {
+  background-image: url("images/space.jpg");
+  background-size: cover;
+}
+
+#canvas1 {
+  border: 5px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  background: url("images/background.png");
+}
+#beetlemorph,
+#rhinomorph,
+#squidmorph,
+#eaglemorph,
+#enemyProjectile,
+#player,
+#player_jets,
+#boss,
+#boss8 {
+  display: none;
+}
