@@ -8,7 +8,7 @@ Space Invaders is a classic arcade-style game where players control a spaceship 
 
 ## Demo
 
-You can play the game online at [Space Invaders Game Demo](https://your-demo-link.com).
+You can play the game online at [Space Invaders Game Demo]([https://your-demo-link.com](https://space-invaders-tarunganesh2004.vercel.app/)).
 
 ## Features
 
